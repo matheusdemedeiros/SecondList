@@ -19,7 +19,6 @@ namespace SecondListQ5.ConsoleApp
 
             do
             {
-
                 Console.Write("Informe o primeiro valor inteiro: ");
                 string inputA = Console.ReadLine();
                 Console.Write("Informe o segundo valor inteiro: ");
